@@ -1,0 +1,9 @@
+C:/Users/admin/Desktop/PL0/cmake-build-debug-visual-studio/CMakeFiles/compiler.dir
+C:/Users/admin/Desktop/PL0/cmake-build-debug-visual-studio/CMakeFiles/edit_cache.dir
+C:/Users/admin/Desktop/PL0/cmake-build-debug-visual-studio/CMakeFiles/rebuild_cache.dir
+C:/Users/admin/Desktop/PL0/cmake-build-debug-visual-studio/src/CMakeFiles/edit_cache.dir
+C:/Users/admin/Desktop/PL0/cmake-build-debug-visual-studio/src/CMakeFiles/rebuild_cache.dir
+C:/Users/admin/Desktop/PL0/cmake-build-debug-visual-studio/grammar/CMakeFiles/edit_cache.dir
+C:/Users/admin/Desktop/PL0/cmake-build-debug-visual-studio/grammar/CMakeFiles/rebuild_cache.dir
+C:/Users/admin/Desktop/PL0/cmake-build-debug-visual-studio/antlr/CMakeFiles/edit_cache.dir
+C:/Users/admin/Desktop/PL0/cmake-build-debug-visual-studio/antlr/CMakeFiles/rebuild_cache.dir

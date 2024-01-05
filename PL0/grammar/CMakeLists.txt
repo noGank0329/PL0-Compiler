@@ -1,0 +1,5 @@
+
+FILE(GLOB ANTLR_GENERATE *.h *.cpp)
+
+target_sources(${PROJECT_NAME} PRIVATE ${ANTLR_GENERATE})
+

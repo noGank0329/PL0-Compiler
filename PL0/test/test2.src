@@ -1,0 +1,10 @@
+PROGRAM minus
+VAR x,y;
+BEGIN
+    x:=1;
+    y:=2;
+    y:=y-x;
+END
+
+
+
